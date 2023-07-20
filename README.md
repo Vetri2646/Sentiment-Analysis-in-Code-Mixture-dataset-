@@ -1,1 +1,2 @@
 # Sentiment-Analysis-in-Code-Mixture-dataset-
+ In this I used the code mixture dataset which means the dataset will be of the mixed language and the dataset is taken from the comments of twitter and language of Tamil-to-English and in it I used "Machine Learning Algorithms","Deep learning Algorithm" and "Tranfer Learning Algorithm", in ML {Logistic Regression,Gaussian naivebayes, Random Foerest, Desicion Tree } in DL { LSTM } in TL { BERT }.
